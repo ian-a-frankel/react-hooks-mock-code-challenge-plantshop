@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Curious George",
+      "image": "https://upload.wikimedia.org/wikipedia/en/d/d8/Curious_George.png",
+      "price": "0.01",
+      "id": 8
+    },
+    {
+      "name": "Ramen Plant",
+      "image": "https://www.marionskitchen.com/wp-content/uploads/2023/03/Chilli-Cheese-Ramen-Noodles-02.jpg",
+      "price": "0.02",
+      "id": 9
     }
   ]
 }
